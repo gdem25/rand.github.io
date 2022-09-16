@@ -58,7 +58,7 @@ export default function Home() {
           Powered by{' '}
           <span className={styles.logo}>
             <Image
-              src='/rand.github.io/images/glass.jpg'
+              src='https://images.unsplash.com/photo-1496449903678-68ddcb189a24?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80'
               alt='Vercel Logo'
               width={72}
               height={16}
