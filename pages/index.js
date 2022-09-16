@@ -58,7 +58,7 @@ export default function Home() {
           Powered by{' '}
           <span className={styles.logo}>
             <Image
-              src='/rand.github.io/vercel.svg'
+              src='/rand.github.io/images/glass.jpg'
               alt='Vercel Logo'
               width={72}
               height={16}
