@@ -5,6 +5,8 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  basePath: '/rand.github.io',
+  assetPrefix: '/rand.github.io',
 }
 
 module.exports = nextConfig
